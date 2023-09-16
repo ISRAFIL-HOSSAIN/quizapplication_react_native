@@ -16,9 +16,6 @@ const Drawer = createDrawerNavigator();
 
 const StackNavigator = () => {
 
-
- 
-
   return (
     <NavigationContainer>
       {/* <BottomTabs /> */}
